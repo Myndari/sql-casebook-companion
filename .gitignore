@@ -1,0 +1,4 @@
+.practice_build/
+__pycache__/
+*.pyc
+my_solution.sql
